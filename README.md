@@ -1,4 +1,5 @@
-### HI 👋, I´m Vagner Pereira 🧑🏼‍🏭 | Oi 👋, sou o Vagner Pereira ![image](https://github.com/PereiraVagner/PereiraVagner/assets/71241872/8cf4da17-c2a2-496a-a3e9-bbd64610b982)
+# Hello 👋, Welcome to my Github profile. | Olá 👋, seja bem vindo! 
+##I´m Vagner Pereira 🧑🏽‍💻 |Sou o Vagner Pereira 🧑🏽‍💻
 
 
 
