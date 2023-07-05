@@ -2,7 +2,7 @@
 ## I´m Vagner Pereira 🧑🏽‍💻 |Sou o Vagner Pereira 🧑🏽‍💻
 
 ## Main Stacks | Principais Tecnologias:
-<i class="devicon-azure-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
 
 
