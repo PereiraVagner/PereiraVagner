@@ -3,7 +3,7 @@
 
 ## Main Stacks | Principais Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="80" height="80"/> 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
