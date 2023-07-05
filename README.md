@@ -1,4 +1,5 @@
-### Hi there 👋
+### HI 👋, I´m Vagner Pereira 🧑🏼‍🏭 | Oi 👋, sou o Vagner Pereira ![image](https://github.com/PereiraVagner/PereiraVagner/assets/71241872/c2c58a33-6f08-4a1b-9201-ac95e00e3a2b)
+
 
 <!--
 **PereiraVagner/PereiraVagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
