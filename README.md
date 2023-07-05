@@ -1,8 +1,9 @@
-# Hello 👋, Welcome to my Github profile. | Olá 👋, seja bem vindo! 
-## I´m Vagner Pereira 🧑🏽‍💻 |Sou o Vagner Pereira 🧑🏽‍💻
+# Hello 👋🏽, Welcome to my Github profile. | Olá 👋🏽, seja bem vindo! 
+<h2 align="center" >I´m Vagner Pereira 🧑🏽‍💻 |Sou o Vagner Pereira 🧑🏽‍💻</h2>
 
 ## Main Stacks | Principais Tecnologias:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="80" height="80"/> 
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 
 
