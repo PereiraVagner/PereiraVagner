@@ -1,8 +1,8 @@
 # Hello 👋, Welcome to my Github profile. | Olá 👋, seja bem vindo! 
-# I´m Vagner Pereira 🧑🏽‍💻 |Sou o Vagner Pereira 🧑🏽‍💻
+## I´m Vagner Pereira 🧑🏽‍💻 |Sou o Vagner Pereira 🧑🏽‍💻
 
 ## Main Stacks | Principais Tecnologias:
-azure mysql jupyter python pandas gcp mongodb git databricks
+https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 
 
 
