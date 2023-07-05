@@ -1,4 +1,5 @@
-### HI 👋, I´m Vagner Pereira 🧑🏼‍🏭 | Oi 👋, sou o Vagner Pereira ![image](https://github.com/PereiraVagner/PereiraVagner/assets/71241872/c2c58a33-6f08-4a1b-9201-ac95e00e3a2b)
+### HI 👋, I´m Vagner Pereira 🧑🏼‍🏭 | Oi 👋, sou o Vagner Pereira ![image](https://github.com/PereiraVagner/PereiraVagner/assets/71241872/8cf4da17-c2a2-496a-a3e9-bbd64610b982)
+
 
 
 <!--
