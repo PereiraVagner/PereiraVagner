@@ -1,4 +1,4 @@
-# Hello 👋🏽, Welcome to my Github profile. | Olá 👋🏽, seja bem vindo! 
+# Hello world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Welcome to my Github. | Olá 👋🏽, seja bem vindo! 
 <h2 align="center" >I´m Vagner Pereira 🧑🏽‍💻 | Sou o Vagner Pereira 🧑🏽‍💻</h2>
 
 
