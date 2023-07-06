@@ -1,8 +1,10 @@
 # Hello world! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> Welcome to my Github. | Olá 👋🏽, seja bem vindo! 
-<h2 align="center" >I´m Vagner | Sou o Vagner Pereira 🧑🏽‍💻
+<h2 align="center">I´m Vagner | Sou o Vagner Pereira 🧑🏽‍💻
+    <p align='center'>
     <a href="https://www.linkedin.com/in/vagnerapereira/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+    </p>
 </h2>
 
 <p align="center">
