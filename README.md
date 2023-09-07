@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ad61a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vagner+Pereira;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h2 align="center">Sou o Vagner 🧑🏽‍💻
     <p align='center'>
-    <a href="https://www.linkedin.com/in/vagnerapereira/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
     </p>    
 </h2>
@@ -62,7 +60,7 @@
 
 ##
 
-<p><img width="41%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
+<p><img width="55%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
 
 <p>&nbsp;<img height="178em" align="center" src="https://github-readme-stats.vercel.app/api?username=PereiraVagner&show_icons=true&theme=vue-dark&locale=en" alt="Vagner Pereira" /></p>
 
