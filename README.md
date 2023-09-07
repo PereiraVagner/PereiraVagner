@@ -27,12 +27,6 @@
   - ⚡ More about me | Mais sobre mim: **I love traveling, outdoor adventures, volleyball, handball and dance**
   </p>
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PereiraVagner&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=17e624&bg_color=02960b" alt="Vagner Pereira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&layout=compact&hide_border=true&title_color=ff91a4&text_color=17e624&bg_color=02960b" />
-</div>
-
 <h3 align="left">Main Stacks | Principais Tecnologias:</h3>
 <p align="left">   
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" wigth="40" height="40"/> </a>  
@@ -66,10 +60,9 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-
 ##
 
-<p><img align="left" height = "365em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PereiraVagner&show_icons=true&theme=vue-dark&locale=en&layout=demo" alt="Vagner Pereira" /></p>
+<p>&nbsp;<img height="178em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
 
 <p>&nbsp;<img height="178em" align="center" src="https://github-readme-stats.vercel.app/api?username=PereiraVagner&show_icons=true&theme=vue-dark&locale=en" alt="Vagner Pereira" /></p>
 
