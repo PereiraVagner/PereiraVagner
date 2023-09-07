@@ -59,13 +59,13 @@
 </p>
 
 ##
+<div align="center">
+<p><img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
 
-<p><img width="80%" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
+<p>&nbsp;<img height="178em"src="https://github-readme-stats.vercel.app/api?username=PereiraVagner&show_icons=true&theme=vue-dark&locale=en" alt="Vagner Pereira" /></p>
 
-<p>&nbsp;<img height="178em" align="center" src="https://github-readme-stats.vercel.app/api?username=PereiraVagner&show_icons=true&theme=vue-dark&locale=en" alt="Vagner Pereira" /></p>
-
-<p><img height="170em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PereiraVagner&theme=vue-dark" alt="Vagner Pereira" /></p>
-
+<p><img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=PereiraVagner&theme=vue-dark" alt="Vagner Pereira" /></p>
+<div>
 ##
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PereiraVagner" alt="Vagner Pereira" /></a> </p>
