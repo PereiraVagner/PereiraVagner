@@ -62,7 +62,7 @@
 
 ##
 
-<p>&nbsp;<img height="178em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
+<p><img width="41%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
 
 <p>&nbsp;<img height="178em" align="center" src="https://github-readme-stats.vercel.app/api?username=PereiraVagner&show_icons=true&theme=vue-dark&locale=en" alt="Vagner Pereira" /></p>
 
