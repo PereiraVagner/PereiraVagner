@@ -12,7 +12,7 @@
   
   - 🌱 I’m currently learning | Atualmente estou aprendendo: **Data Science, Data Analytics, Azure, PySpark**
   
-  - 💻 My Portfolio (in progress) | Meu Portfolio (sendo produzido): [Portfolio](https://PereiraVagner.github.io/site/)
+  - 💻 My Portfolio (in progress) | Meu Portfolio (sendo produzido): [Portfolio](https://PereiraVagner.github.io/site/) - # WIP!
   
   - 🧑🏽‍💻 All of my projects are available in | Todos meus projetos estão disponíveis no: [Projetos de Data Analytics](https://github.com/PereiraVagner)
 
