@@ -60,7 +60,7 @@
 
 ##
 <div align="center">
-<p><img width="600px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
+<p><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PereiraVagner&layout=compact&theme=vue-dark&locale=en" alt="Vagner Pereira"/>
 
 <p>&nbsp;<img height="178em"src="https://github-readme-stats.vercel.app/api?username=PereiraVagner&show_icons=true&theme=vue-dark&locale=en" alt="Vagner Pereira" /></p>
 
