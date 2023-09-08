@@ -1,11 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0df705&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ad61a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vagner+Pereira;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<h2 align="center">Sou o Vagner 🧑🏽‍💻
-    <p align='center'>
-  </a>&nbsp;&nbsp;
-    </p>    
-</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1ad61a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vagner+Pereira;Olá,+meu+nome+é+Vagner+Pereira;I'm+from+Brazil;Sou+Brasileiro;Be+Welcome!+:%29;Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
 
 <h3 align="left">About me | Sobre mim:</h3> 
 <p align="center">
